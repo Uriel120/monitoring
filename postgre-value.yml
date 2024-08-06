@@ -1,0 +1,4 @@
+persistence:
+  enabled: true
+nodePorts:
+    postgresql: "30050"
